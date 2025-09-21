@@ -389,7 +389,7 @@ module Linguist
         end
       end
     end
-
++nones1triska✨ 
     def self.get_centroids(db)
       centroids = {}
       db['samples'].each do |language, samples|
